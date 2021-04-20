@@ -9,4 +9,6 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-- [Local State](https://github.com/valentynkuts/learningFlutter/commit/1ba4ca45dd28c3da5986c76a79d908acd563c8d7#diff-5cdaabea5249fbc80abd5d7b132ffa71829c26cb4c95cba8eaecb977e5afefb1RE)
+- [Local State](https://github.com/valentynkuts/learningFlutter/commit/1ba4ca45dd28c3da5986c76a79d908acd563c8d7#diff-5cdaabea5249fbc80abd5d7b132ffa71829c26cb4c95cba8eaecb977e5afefb1)
+
+https://github.com/valentynkuts/learningFlutter/commit/1ba4ca45dd28c3da5986c76a79d908acd563c8d7#diff-5cdaabea5249fbc80abd5d7b132ffa71829c26cb4c95cba8eaecb977e5afefb1
