@@ -1,20 +1,16 @@
 import 'package:flutter/material.dart';
+import 'package:todoey/screens/tasks_screen.dart';
 
 void main() {
-  runApp(
-    MaterialApp(
-      home: Scaffold(
-        backgroundColor: Colors.blueGrey,
-        appBar: AppBar(
-          title: Text('I am Rich'),
-          backgroundColor: Colors.blueGrey[900],
-        ),
-        body: Center(
-          child: Image(
-            image: NetworkImage('https://www.w3schools.com/w3css/img_lights.jpg'),
-          ),
-        ),
-      ),
-    ),
-  );
+  runApp(MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      home: TasksScreen(),
+
+    );
+  }
 }
