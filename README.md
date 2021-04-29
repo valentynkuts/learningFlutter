@@ -19,3 +19,5 @@ Using a Provider and a ChangeNotifier to Manage State
 
 - [added ChangeNotifierProvider (main.dart), Consumer(tasks_list.dart), TaskData](https://github.com/valentynkuts/learningFlutter/commit/82553dec4b2f90ee85c724bf9bd0789ba73d573e)
 - [Simple app state management](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple)
+- [be more safer](https://github.com/valentynkuts/learningFlutter/commit/5b5329d222685bd559fb3ee5ce70eac1e498eef1)
+

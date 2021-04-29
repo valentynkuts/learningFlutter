@@ -11,14 +11,13 @@ class TaskList extends StatelessWidget {
       builder: (context, taskData, child) {
         return ListView.builder(
           itemBuilder: (context, index) {
+            // Provider.of<TaskData> (context) replaced by taskData
+            final task = taskData.tasks[index];
             return TaskTile(
-              // Provider.of<TaskData> (context) replaced by taskData
-              taskTitle: taskData.tasks[index].name,
-              isChecked: taskData.tasks[index].isDone,
+              taskTitle: task.name,
+              isChecked: task.isDone,
               checkboxCallback: (checkboxState) {
-                // setState(() {
-                //   widget.tasks[index].toggleDone();
-                // });
+                taskData.updateTask(task);
               },
             );
           },
