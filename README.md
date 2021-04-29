@@ -1,5 +1,7 @@
 # My learning Flutter apps 
 
+- [I am rich](https://github.com/valentynkuts/learningFlutter/tree/i_am_rich)
+
 
 A few resources to get you started if this is your first Flutter project:
 
