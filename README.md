@@ -14,3 +14,8 @@ ListView.builder
 
 Lifting State Up
 - [state up](https://github.com/valentynkuts/learningFlutter/commit/aae94859ceb256f9c4d91c1de26fd7a4420360e5)
+
+Using a Provider and a ChangeNotifier to Manage State
+
+- [added ChangeNotifierProvider (main.dart), Consumer(tasks_list.dart), TaskData](https://github.com/valentynkuts/learningFlutter/commit/82553dec4b2f90ee85c724bf9bd0789ba73d573e)
+- [Simple app state management](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple)
