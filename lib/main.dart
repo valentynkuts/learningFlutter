@@ -4,14 +4,14 @@ void main() {
   runApp(
     MaterialApp(
       home: Scaffold(
-        backgroundColor: Colors.blueGrey,
+        backgroundColor: Colors.green,
         appBar: AppBar(
-          title: Text('I am Rich'),
+          title: Text('Hello'),
           backgroundColor: Colors.blueGrey[900],
         ),
         body: Center(
           child: Image(
-            image: NetworkImage('https://www.w3schools.com/w3css/img_lights.jpg'),
+            image: AssetImage('images/diamond.png'),
           ),
         ),
       ),
