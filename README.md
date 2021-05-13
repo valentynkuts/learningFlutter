@@ -1,6 +1,6 @@
 # Xylophone 🎹
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/xylophone-flutter.png)
+![Finished App](https://github.com/valentynkuts/learningFlutter/blob/xylophone/xylophone-flutter.png)
 
 Music app that plays Xylophone sounds.
 
