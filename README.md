@@ -1,7 +1,7 @@
 
 # Bitcoin Ticker 🤑
 Crypto currency price checking app. 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
+![Finished App](https://github.com/valentynkuts/learningFlutter/blob/bitcoin_ticker/bitcoin-flutter-demo.gif)
 
 ## I learnt
 
