@@ -1,4 +1,8 @@
 # todoey
+![app](https://github.com/valentynkuts/learningFlutter/blob/todoey/todoey1.png)
+
+![app](https://github.com/valentynkuts/learningFlutter/blob/todoey/todoey2.png)
+
 
 States
 
