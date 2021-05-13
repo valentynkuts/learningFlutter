@@ -1,6 +1,6 @@
 # flash_chat
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
+![Finished App](https://github.com/valentynkuts/learningFlutter/blob/flash_chat/flash_chat_flutter_demo.gif)
 
 ## I learnt
 
