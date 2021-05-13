@@ -1,6 +1,6 @@
 # dicee
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
+![Finished App](https://github.com/valentynkuts/learningFlutter/blob/dicee/dicee-demo.gif)
 
 ## I learnt
 
