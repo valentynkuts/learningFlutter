@@ -1,6 +1,6 @@
 # bmi_calculator
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
+![Finished App](https://github.com/valentynkuts/learningFlutter/blob/bmi_calculator/bmi-calc-demo.gif)
 
 Body Mass Index Calculator
 
