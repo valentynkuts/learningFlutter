@@ -1,6 +1,6 @@
 # Quizzler ❓
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/quizzler-demo.gif)
+![Finished App](https://github.com/valentynkuts/learningFlutter/blob/quizzler/quizzler-demo.gif)
 
 Quiz app that tests your general knowledge.
 
